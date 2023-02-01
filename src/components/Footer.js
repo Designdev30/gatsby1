@@ -44,16 +44,16 @@ const Footer = () => {
                         Form Examples
                       </Link> 
                     </li> */}
-                    <li>
+                    {/* <li>
                       <a
                         className="navbar-item"
-                        href="/admin/"
+                        href="/"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
                         Admin
                       </a>
-                    </li>
+                    </li> */}
                   </ul>
                 </section>
               </div>

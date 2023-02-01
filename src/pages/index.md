@@ -55,4 +55,8 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
+#     https://www.pexels.com/@andrew/
+# https://www.pexels.com/@hellojanedoan/
+# https://www.pexels.com/@divinetechygirl/
+# https://www.pexels.com/@matheusnatan/
 ---
