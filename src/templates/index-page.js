@@ -35,13 +35,15 @@ export const IndexPageTemplate = ({
                     </div>
                     <div className="tile">
                       <h3 className="subtitle">{mainpitch.description}</h3>
-                    </div>
 
-                    <div className="column is-12 has-text-centered">
+                      <div className="column is-12 has-text-centered">
                       <Link className="btn" to="/blog">
                         Read more
                       </Link>
                       </div>
+
+                    </div>
+
                   </div>
                   <div className="columns">
                     <div className="column is-12">
