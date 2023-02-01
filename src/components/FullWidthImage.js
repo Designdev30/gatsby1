@@ -74,6 +74,7 @@ export default function FullWidthImage(props) {
                   color: "white",
                   lineHeight: "1",
                   padding: "0.25em",
+                  fontSize: "2.5em",
                 }}
               >
                 {title}
