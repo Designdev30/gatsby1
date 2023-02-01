@@ -39,11 +39,11 @@ const Footer = () => {
                         Products
                       </Link>
                     </li>
-                    <li>
+                    {/* <li>
                       <Link className="navbar-item" to="/contact/examples">
                         Form Examples
-                      </Link>
-                    </li>
+                      </Link> 
+                    </li> */}
                     <li>
                       <a
                         className="navbar-item"
@@ -74,7 +74,7 @@ const Footer = () => {
                 </section>
               </div>
               <div className="column is-4 social">
-                <a title="facebook" href="https://facebook.com">
+                <a title="facebook" href="">
                   <img
                     src={facebook}
                     alt="Facebook"

@@ -53,11 +53,11 @@ const Navbar = () => {
               Contact
             </Link>
             </li>
-            <li className="navbar-item" style={{padding: "0px"}}>
+            {/* <li className="navbar-item" style={{padding: "0px"}}>
             <Link className="navbar-item" to="/contact/examples">
               Form Examples
             </Link>
-            </li>
+            </li> */}
           <li className="navbar-end has-text-centered">
             {/* <a
               className="navbar-item"
