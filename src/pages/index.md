@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: We are at the best at what we do
+title: We are the best in our industry
 image: /img/clouds.jpg
 heading: Great coffee with a conscience
-subheading: We support our customers
+subheading: In business for 10 years, supporting suppliers
 mainpitch:
   title: Why Valdi
   description: >
@@ -55,8 +55,4 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-#     https://www.pexels.com/@andrew/
-# https://www.pexels.com/@hellojanedoan/
-# https://www.pexels.com/@divinetechygirl/
-# https://www.pexels.com/@matheusnatan/
 ---
