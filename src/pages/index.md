@@ -5,7 +5,7 @@ image: /img/clouds.jpg
 heading: Great coffee with a conscience
 subheading: We support our customers
 mainpitch:
-  title: Why Kaldi
+  title: Why Valdi
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
