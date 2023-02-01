@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: We are at the best at what we do
 image: /img/clouds.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: We support our customers
 mainpitch:
   title: Why Kaldi
   description: >
